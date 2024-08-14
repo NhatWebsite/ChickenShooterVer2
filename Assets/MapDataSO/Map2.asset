@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 237394b8a81085a468f64befb8c35302, type: 3}
+  m_Name: Map2
+  m_EditorClassIdentifier: 
+  AmountEnemy: 10
+  SlotHolder: {fileID: 5569996035179123181, guid: cf0863ac40d07ee4eb5f3b60c5009d47, type: 3}
+  PathHolders:
+  - {fileID: 996680474549880215, guid: f4502f2ee0a802a4bb1548529916c273, type: 3}
+  - {fileID: 4535526368434187570, guid: ac376e4d9b3a4e84d9de28be8fbf0874, type: 3}
